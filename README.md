@@ -1,10 +1,46 @@
-## 👋 Hi there, I'm Muhammad Jamshed!
+## Hello 👋, I'm Muhammad Jamshed
 
-🌟 A passionate developer with expertise in Frontend Development, React.js, and the MERN Stack.
+### A Passionate Full Stack MERN Developer from Pakistan
 
-💻 Currently working on exciting projects to improve user experiences.
+Accomplished Full Stack Developer with 2+ years of experience in designing and developing high-performance, responsive web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Proficient in leveraging cutting-edge front-end and back-end technologies to optimize application performance and deliver seamless user experiences. Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful APIs, and GraphQL. Skilled in implementing reusable React components, server-side rendering with Next.js, and integrating with third-party services like Stripe and Sanity CMS. Recognized for strong collaboration abilities, and successfully leading cross-functional teams. Committed to continuous learning and staying ahead of industry trends.
 
-🚀 Always eager to learn, share, and collaborate on innovative ideas!
+---
+
+### 🌐 About Me
+
+- 🌍 I'm based in Lahore, Pakistan
+- 💻 Full Stack Developer
+- 🔭 I'm currently working on MERN STACK DEVELOPMENT
+- 🌱 I'm currently learning Data Structure & Algorithms
+- 👯 I'm looking to collaborate on Web Development & DSA
+- 🤔 I'm looking for help with Machine Learning
+- ⚡ Empowering eCommerce Businesses
+- 🌀 Agile & Scrum methodologies: Delivering results timely and effectively.
+- 🗣 Excellent communicator, ensuring seamless integration of tech & business objectives.
+- 👪 Mentoring juniors to achieve their full potential.
+- ⏱ An embodiment of punctuality, precision, and dedication.
+- ✉️ You can contact me at **jamsheddeveloper@gmail.com**
+- 📱 +923001234567
+
+---
+
+### Connect with me:
+
+<p align="center">
+  <a href="https://twitter.com/yourtwitterhandle" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/yourgithub" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.hackerrank.com/yourhandle" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://leetcode.com/yourhandle" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+### 👨‍💻 Illustration:
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer at Work" width="400" />
+</p>
 
 ---
 
