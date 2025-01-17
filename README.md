@@ -36,7 +36,7 @@
 ---
 
 ## 🌟 Repository Animation
-![Repository Animation Placeholder](https://your-animation-link-here)
+![Repository Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
