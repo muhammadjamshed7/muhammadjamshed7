@@ -10,49 +10,38 @@
 
 ## 🛠 Languages and Tools
 
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400">
-  <style>
-    @keyframes blink {
-      0% { opacity: 1; }
-      50% { opacity: 0.5; }
-      100% { opacity: 1; }
-    }
-    .blinking {
-      animation: blink 1.5s infinite;
-    }
-  </style>
-  <!-- Row 1 -->
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" class="blinking" x="10" y="10" height="80" width="80"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" class="blinking" x="110" y="10" height="80" width="80"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="blinking" x="210" y="10" height="80" width="80"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" class="blinking" x="310" y="10" height="80" width="80"/>
-  <!-- Row 2 -->
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" class="blinking" x="10" y="110" height="80" width="80"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" class="blinking" x="110" y="110" height="80" width="80"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" class="blinking" x="210" y="110" height="80" width="80"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" class="blinking" x="310" y="110" height="80" width="80"/>
-  <!-- Row 3 -->
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="blinking" x="10" y="210" height="80" width="80"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" class="blinking" x="110" y="210" height="80" width="80"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" class="blinking" x="210" y="210" height="80" width="80"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" class="blinking" x="310" y="210" height="80" width="80"/>
-</svg>
+## 🛠 Technologies and Tools
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80" style="animation: blink 1.5s infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80" style="animation: blink 1.5s infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" style="animation: blink 1.5s infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" height="80" style="animation: blink 1.5s infinite;"/>
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80" style="animation: blink 1.5s infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="80" height="80" style="animation: blink 1.5s infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="80" height="80" style="animation: blink 1.5s infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="80" height="80" style="animation: blink 1.5s infinite;"/>
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80" style="animation: blink 1.5s infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80" height="80" style="animation: blink 1.5s infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80" style="animation: blink 1.5s infinite;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80" style="animation: blink 1.5s infinite;"/>
+</p>
 
 ---
 
 ## 🔧 Tools & Technologies
 
-- **Programming Languages**: ⚡JavaScript (ES6+), ⚡TypeScript
-- **Frameworks/Libraries**: ⚡React, ⚡jQuery, ⚡Next.js, ⚡Next Auth.js, ⚡React Router, ⚡Material UI, ⚡Chakra UI, ⚡Three.js
-- **Back-end Technologies**: ⚡Node.js, ⚡Express.js, ⚡GraphQL
-- **State Management**: ⚡Redux, ⚡Context API
+- **Programming Languages**: ⚡JavaScript (ES6+), ⚡TypeScript, ⚡Python
+- **Frameworks/Libraries**: ⚡React, ⚡jQuery, ⚡Next.js, ⚡Redux, ⚡Express.js
 - **Databases**: ⚡MongoDB, ⚡Firebase, ⚡MySQL
 - **Build Tools**: ⚡Webpack
-- **Version Control**: ⚡GitHub, ⚡GitLab, ⚡Bitbucket
-- **Markup and Styling**: ⚡HTML5, ⚡CSS3, ⚡Tailwind CSS, ⚡Styled Components, ⚡SASS
+- **Version Control**: ⚡Git, ⚡GitHub, ⚡Bitbucket
+- **Markup and Styling**: ⚡HTML5, ⚡CSS3, ⚡Tailwind CSS, ⚡Bootstrap, ⚡SASS
 - **Operating Systems**: ⚡Linux, ⚡Windows
-
 
 
 ## 📊 GitHub Stats
