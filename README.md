@@ -30,7 +30,8 @@
 ---
 
 ## 🐍 Contribution Graph Animation
-![GitHub Contribution Graph Snake](https://github.com/muhammadjamshed7/muhammadjamshed7/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
