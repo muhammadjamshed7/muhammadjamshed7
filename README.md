@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Muhammad Jamshed!
 
-🌟 A passionate developer with expertise in Frontend Development, React.js, and MERN Stack.
+🌟 A passionate developer with expertise in Frontend Development, React.js, and the MERN Stack.
 
 💻 Currently working on exciting projects to improve user experiences.
 
@@ -24,20 +24,25 @@
 ---
 
 ## 🚀 Projects
-- **[Project Name](project-link)**: A React-based e-commerce app.
-- **[Project Name](project-link)**: A Node.js API for managing inventory.
+- **[Project 1](#)**: A React-based e-commerce app.
+- **[Project 2](#)**: A Node.js API for managing inventory.
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Graph Animation
 ![GitHub Contribution Graph Snake](https://github.com/muhammadjamshed7/muhammadjamshed7/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌟 Repository Animation
+![Repository Animation Placeholder](https://your-animation-link-here)
 
 ---
 
 ## 📫 Let's Connect
 - **LinkedIn**: [Muhammad Jamshed](https://linkedin.com/in/muhammadjamshed7)
 - **Email**: [muhammad.jamshed@example.com](mailto:muhammad.jamshed@example.com)
-- **Portfolio**: [Your Portfolio](your-portfolio-link)
+- **Portfolio**: [Your Portfolio](#)
 
 ---
 
