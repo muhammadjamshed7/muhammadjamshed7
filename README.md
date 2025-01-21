@@ -19,8 +19,8 @@ Accomplished Full Stack Developer with 2+ years of experience in designing and d
 - 🗣 Excellent communicator, ensuring seamless integration of tech & business objectives.
 - 👪 Mentoring juniors to achieve their full potential.
 - ⏱ An embodiment of punctuality, precision, and dedication.
-- ✉️ You can contact me at **jamsheddeveloper@gmail.com**
-- 📱 +923001234567
+- ✉️ You can contact me at **jamshedmsd589@gmail.com**
+- 📱 +923029015909
 
 ---
 
@@ -164,7 +164,7 @@ Accomplished Full Stack Developer with 2+ years of experience in designing and d
 
 ## 📫 Let's Connect
 - **LinkedIn**: [Muhammad Jamshed](https://linkedin.com/in/muhammadjamshed7)
-- **Email**: [muhammad.jamshed@example.com](mailto:muhammad.jamshed@example.com)
+- **Email**: [jamshedmsd589@gmail.com](mailto:jamshedmsd589@gmail.com)
 - **Portfolio**: [Your Portfolio](#)
 
 ---
