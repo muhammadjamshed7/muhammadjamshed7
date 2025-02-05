@@ -28,7 +28,7 @@ Accomplished Full Stack Developer with 2+ years of experience in designing and d
 
 <p align="center">
   <a href="https://twitter.com/yourtwitterhandle" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-jamshed-%E2%9C%AA-7ab3b2198/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/yourgithub" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.hackerrank.com/yourhandle" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" /></a>
   <a href="https://leetcode.com/yourhandle" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge" /></a>
