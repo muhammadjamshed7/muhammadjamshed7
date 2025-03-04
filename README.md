@@ -2,7 +2,7 @@
 
 ### A Passionate Full Stack MERN Developer from Pakistan
 
-Accomplished Full Stack Developer with 4+ years of experience in designing and developing high-performance, responsive web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Proficient in leveraging cutting-edge front-end and back-end technologies to optimize application performance and deliver seamless user experiences. Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful APIs, and GraphQL. Skilled in implementing reusable React components, server-side rendering with Next.js, and integrating with third-party services like Stripe and Sanity CMS. Recognized for strong collaboration abilities, and successfully leading cross-functional teams. Committed to continuous learning and staying ahead of industry trends.
+Accomplished Full Stack Developer with 2+ years of experience in designing and developing high-performance, responsive web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Proficient in leveraging cutting-edge front-end and back-end technologies to optimize application performance and deliver seamless user experiences. Proven expertise in React.js, Next.js, Node.js, Express.js, MongoDB, RESTful APIs, and GraphQL. Skilled in implementing reusable React components, server-side rendering with Next.js, and integrating with third-party services like Stripe and Sanity CMS. Recognized for strong collaboration abilities, and successfully leading cross-functional teams. Committed to continuous learning and staying ahead of industry trends.
 
 ---
 
